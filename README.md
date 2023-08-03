@@ -1,2 +1,2 @@
-# meu_portifolio
+# meu_curriculo
 Minhas informações profissionais
